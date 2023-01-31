@@ -1,0 +1,5 @@
+sudo apt update: actualizar paquetes
+clear: borra informacion
+sudo apt install neofetch obs-studio
+sudo reboot dfsdf ^C
+sudo neofetch
