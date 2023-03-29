@@ -3,3 +3,24 @@ clear: borra informacion
 sudo apt install neofetch obs-studio
 sudo reboot dfsdf ^C
 sudo neofetch
+nombre=Jose
+curl -X GET -L https://script.google.com/macros/s/AKfycby61tcPuNY3dw_3IYqNGFnR6Ei55MrLFPe_PHup_VMnGP07HeoRyIy5W8xlrheMB7vJ/exec?data=$nombre
+sudo pacman -Sy
+sudo pacman -S unrar zip unzip gzip bzip2
+sudo pacman -S yay
+sudo yay -S --needed base-devel
+yay -S google-chrome
+sudo pacman -S apache
+sudo systemctl start httpd
+uname -a
+sudo useradd -m nombredeusuario -G wheel -p passworddelusuario
+cd,  
+mkdir 
+chmod 
+chown 
+rmdir 
+rm
+$ ls -la /etc/a* > $HOME/dir003/dircuatro/archivo2
+$ ls -l $HOME 1> $HOME/dir003/dircuatro/archivo3
+$ cp /etc/profile $HOME/dir003/dircuatro/
+grep -rs “papirus” $HOME
